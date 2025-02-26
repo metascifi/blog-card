@@ -82,7 +82,8 @@ body {
 
 .card-desc .description {
   margin-top: 20px;
-  color: var(--grey-500)
+  color: var(--grey-500);
+  line-height: 1.4;
 }
 
 .author-info {
