@@ -21,6 +21,7 @@ html {
   background-color: var(--yellow);
   font-family: Figtree, Arial, Helvetica, sans-serif;
   font-weight: 500;
+  font-size: min(3.5vw, 16px);
 }
 
 
@@ -73,6 +74,10 @@ body {
 
 .card-desc .title{
   font-size: 1.6rem;
+}
+
+.card-desc:hover, .card-desc:focus {
+  color: var(--yellow);
 }
 
 .card-desc .description {
