@@ -42,7 +42,7 @@ body {
   background-color: var(--white);
   color: var(--grey-950);
   box-shadow: 10px 10px;
-  min-width: 400px;
+  min-width: 340px;
 }
 
 .preview-img {
